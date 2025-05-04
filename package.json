@@ -2,7 +2,7 @@
   "name": "google-keyword-analyzer-vercel",
   "version": "1.0.0",
   "dependencies": {
-    "puppeteer-core": "^22.8.2",
+    "puppeteer-core": "10.2.0",
     "chrome-aws-lambda": "^10.1.0"
   }
 }
